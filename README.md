@@ -11,7 +11,7 @@ Output:
 ![output2](https://github.com/ClarkIvanCruzat/Clark_Bounce_Game/assets/153114786/e7fd8ad1-baee-41bc-ac88-e7bb2d8618fa)
 
 Eval Member BSIT-2101
-- A. Cristobal, Curt Lenard * 100
-- B. Cruzat, Clark Ivan * 100
-- C. Fruelda, Sebastian Jandel * 100
-- D. Landicho, Bon Cedric * 100 
+- A. Cristobal, Curt Lenard * 25
+- B. Cruzat, Clark Ivan * 25
+- C. Fruelda, Sebastian Jandel * 25
+- D. Landicho, Bon Cedric * 25
